@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "img":"https://i.imgur.com/VxcSedw.png",
+    "title":"JavaScript",
+    "description":"E-commerce hecho en Vanilla JavaScript",
+    "site":"https://javascript-store1.000webhostapp.com/",
+    "repository": "https://github.com/lucyf/musicalstore"
+},
+{
+    "id": 2,
+    "img":"https://i.imgur.com/KgYuJ8l.png",
+    "title":" React.js + Firebase",
+    "description":"E-commerce hecho con React.js, Firebase y Bootstrap",
+    "site":"https://lucyf.github.io/react-assignments/",
+    "repository": "https://github.com/lucyf/react-assignments"
+
+},
+{
+    "id": 3,
+    "img":"https://i.imgur.com/dEoGLXi.png",
+    "title":" HTML + CSS",
+    "description":"Sitio web hecho con HTML, CSS y Bootstrap",
+    "site":"https://lucyf.github.io/elgalpondesilvina/",
+    "repository": "https://github.com/lucyf/elgalpondesilvina"
+
+}
+]

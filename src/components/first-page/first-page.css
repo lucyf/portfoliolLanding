@@ -1,0 +1,18 @@
+.first-page{
+    /* background-color: #FBEAE9; */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: black 0.1rem 0.1rem 0.2rem;
+}
+
+.m{
+    margin: 1rem;
+}
+
+.link-style{
+    text-decoration: none;
+}

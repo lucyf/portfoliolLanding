@@ -1,0 +1,6 @@
+.h1-style{
+    writing-mode: vertical-lr;
+    transform: rotate(0.5turn);
+    padding: 4rem 0rem 4rem 1.5rem;
+    border-left: 0.1rem solid black;
+}
